@@ -13,9 +13,9 @@ Melhor modelo (F1-macro no teste)     : Árvore de Decisão (0.9521)
 Melhor modelo (F1-macro na CV 10x10)  : MLP (0.9644 ± 0.0485)
 
 Desempenho no conjunto de TESTE (holdout):
-  -               k-NN: acc=0.8810 | F1-macro=0.8731 | AUC=0.9847 | t_treino=0.0021s
-  -  Árvore de Decisão: acc=0.9524 | F1-macro=0.9521 | AUC=0.9634 | t_treino=0.0020s
-  -                MLP: acc=0.9048 | F1-macro=0.9007 | AUC=0.9371 | t_treino=0.0111s
+  -               k-NN: acc=0.8810 | F1-macro=0.8731 | AUC=0.9847 | t_treino=0.0022s
+  -  Árvore de Decisão: acc=0.9524 | F1-macro=0.9521 | AUC=0.9634 | t_treino=0.0018s
+  -                MLP: acc=0.9048 | F1-macro=0.9007 | AUC=0.9371 | t_treino=0.0124s
 
 Desempenho na CV repetida (media ± desvio):
   -               k-NN: acc=0.9293±0.0560 | F1=0.9284±0.0575
