@@ -1,0 +1,4 @@
+modelo,acuracia_media,acuracia_std,f1_macro_media,f1_macro_std
+k-NN,0.9293,0.0560,0.9284,0.0575
+Árvore de Decisão,0.9263,0.0690,0.9253,0.0700
+MLP,0.9650,0.0473,0.9644,0.0485

@@ -1,0 +1,4 @@
+comparacao,statistic,p_value,p_value_bonferroni,significativo_5%
+k-NN vs Árvore de Decisão,704.0000,0.5800,1.0000,False
+k-NN vs MLP,205.5000,0.0000,0.0000,True
+Árvore de Decisão vs MLP,344.0000,0.0000,0.0000,True

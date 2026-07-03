@@ -1,0 +1,5 @@
+                                                                                                  melhores_hiperparametros  f1_macro_cv_interna
+modelo                                                                                                                                         
+k-NN                                                     {'metric': 'manhattan', 'n_neighbors': 11, 'weights': 'distance'}               0.9357
+Árvore de Decisão                 {'criterion': 'entropy', 'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 10}               0.9343
+MLP                {'activation': 'logistic', 'hidden_layer_sizes': (10,), 'learning_rate_init': 0.001, 'solver': 'lbfgs'}               0.9821

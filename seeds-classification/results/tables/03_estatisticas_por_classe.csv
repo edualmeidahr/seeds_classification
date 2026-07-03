@@ -1,0 +1,4 @@
+variety_name,area_mean,area_std,perimeter_mean,perimeter_std,compactness_mean,compactness_std,kernel_length_mean,kernel_length_std,kernel_width_mean,kernel_width_std,asymmetry_coeff_mean,asymmetry_coeff_std,kernel_groove_length_mean,kernel_groove_length_std
+Canadian,11.8739,0.7230,13.2479,0.3402,0.8494,0.0218,5.2295,0.1380,2.8538,0.1475,4.7884,1.3365,5.1164,0.1621
+Kama,14.3344,1.2157,14.2943,0.5766,0.8801,0.0162,5.5081,0.2315,3.2446,0.1776,2.6674,1.1739,5.0872,0.2637
+Rosa,18.3343,1.4395,16.1357,0.6170,0.8835,0.0155,6.1480,0.2682,3.6774,0.1855,3.6448,1.1819,6.0206,0.2539
